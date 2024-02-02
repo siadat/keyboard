@@ -1,3 +1,4 @@
 oryx_output/*.bin
 oryx_output/*.md5
 oryx_output/*.log
+qmk_firmware/
